@@ -9,7 +9,7 @@ I’m an engineering student who enjoys exploring ideas across different fields 
 I like learning by experimenting, taking things apart, understanding how they work, and occasionally building something just because I’m curious whether I can. This profile is a collection of projects, experiments, and ideas I’ve worked on while figuring out where my interests take me next.
 
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [aaryan.suresh.007@gmail.com](mailto:aaryan.suresh.007@gmail.com)
+* ✉️  You can contact me at [aaryan.bit@gmail.com](mailto:aaryan.bit@gmail.com)
 * 🚀  I'm currently working on [DNA-based data storage](http://github.com/BigFudge420/digital_dna_storage)
 * 🧠  I'm currently learning embedded systems
 * 👥  I'm looking to collaborate on Interesting projects, open-source ideas, research, and anything that makes me curious
